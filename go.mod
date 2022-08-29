@@ -6,7 +6,7 @@ go 1.17
 
 require (
 	github.com/onsi/ginkgo v1.16.4
-	github.com/onsi/gomega v1.20.0
+	github.com/onsi/gomega v1.20.1
 	github.com/sirupsen/logrus v1.6.0
 	k8s.io/api v0.19.6
 	k8s.io/apimachinery v0.23.3
